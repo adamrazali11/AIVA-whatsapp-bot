@@ -19,7 +19,9 @@ supports chatgpt-style conversations, translations, auto-replies, and more.
 ## 🚀 setup
 
 ### 1. clone this repo
+```bash
 git clone https://github.com/adamrazali11/AIVA-whatsapp-bot
-cd AIVA-whatsapp-bot ```
+cd AIVA-whatsapp-bot
     
 ### 2. install dependencies
+npm install
